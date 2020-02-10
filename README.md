@@ -1,4 +1,4 @@
-# Analysis on motionSense dataset with deeplearning[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# Analysis on motionSense dataset using deeplearning[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
 ![Build](https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript/task/SECO-2168.svg)
