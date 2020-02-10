@@ -21,3 +21,8 @@ Here's the link to the [dataset](https://github.com/mmalekzadeh/motion-sense).
 
 # **Data preparation** 
 
+# **Support**
+
+Reach out to me at one of the following places!
+
+- Email at <a href="mailto:m.abdollahi776@gmail.com" target="_blank">m.abdollahi776@gmail.com</a>
