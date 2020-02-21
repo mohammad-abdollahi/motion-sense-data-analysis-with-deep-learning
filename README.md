@@ -28,6 +28,8 @@ Here's the link to the [dataset](https://github.com/mmalekzadeh/motion-sense).
 # **Dimension Reduction**
 In this part I wanted to plot the data in 2D so I used T-SNE and PCA for this purpose. As you can see the results, they're really the same. I guess it's because of the distribution of data that a mathematical technique like pca and probabilistic one like tsne have given the same results.
 
+![T-SNE](https://github.com/mohammad-abdollahi/motion-sense-dataset-analysis-using-deep-learning/blob/master/imgs/tsne.png)
+![PCA](https://github.com/mohammad-abdollahi/motion-sense-dataset-analysis-using-deep-learning/blob/master/imgs/pca.png)
 # **Support**
 
 Reach out to me at one of the following places!
